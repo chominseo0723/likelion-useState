@@ -1,8 +1,9 @@
 import React from 'react'
+import Counter from './counter'
 
 const App = () => {
   return (
-    <div className="text-red-500 text-7xl">App</div>
+     <Counter />
   )
 }
 
